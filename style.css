@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.logotxt{
+    color: rgb(255, 118, 93);
+    font-weight: 700;
+}
+.nav-txts:hover{
+    color: rgb(255, 118, 93);
+    font-weight: 700;
+}
+.beach-img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+h2{
+    color: rgb(221, 49, 19);  
+}
+
+.destination-img{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.imgs-algn{
+    align-items: center;
+}
+
+.para{
+    justify-content: center;
+}
+
+.script{
+    font-family: 'Dancing Script', cursive;
+    color:  rgb(255, 118, 93);
+    font-size: 40px;
+}
+.subtxt{
+    font-size: 14px;
+    color: aliceblue;
+}
+
+.block{
+    width: 250px;
+    display: inline-block;
+}
+
+.borderxbottom{
+    border-color: rgb(35, 111, 197);
+    border-width: 5px;
+    border-radius: 2px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+h4{
+    color: rgb(35, 111, 197);
+    font-size: 20px;
+}
+
+.reviews{
+    justify-content: center;
+}
+
+.reviewtxt{
+    color: rgb(35, 111, 197);
+}
+
+.rev-subtext{
+    font-size: 10px;
+    color: rgb(173, 173, 173);
+}
